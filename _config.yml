@@ -1,4 +1,14 @@
-title: "Mon blog science"
-description: "Explorations autour de la chimie, la data science"
-author: "Laura"
+title: "Mon blog"
+description: "Explorations croisées entre la chimie, la data science"
+author: "Ton Nom"
 theme: minima
+
+# Navigation (menu en haut)
+minima:
+  navigation:
+    - title: "Accueil"
+      url: "/"
+    - title: "À propos"
+      url: "/about/"
+    - title: "Projets"
+      url: "/projects/"
