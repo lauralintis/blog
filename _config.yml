@@ -2,7 +2,6 @@ title: "Mon blog"
 description: "Explorations croisées entre la chimie, la data science"
 author: "Ton Nom"
 theme: minima
-style: "/assets/css/style.css"
 
 # Navigation (menu en haut)
 minima:
