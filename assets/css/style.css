@@ -1,0 +1,15 @@
+/* Changer la couleur de fond */
+body {
+  background-color: #f0f8ff;
+  font-family: Arial, sans-serif;
+}
+
+/* Personnaliser les titres */
+h1, h2, h3 {
+  color: #333333;
+}
+
+/* Personnaliser les liens */
+a {
+  color: #ff6347;
+}
